@@ -15,3 +15,11 @@ obj/
 # OS files
 .DS_Store
 Thumbs.db
+# Temporary files
+stubs/
+lib/
+DepotDownloader/
+DepotDownloader-linux-x64.zip
+rust_temp/
+# But keep the deliverable
+!Rust.PreventBlueprintWipes.dll
